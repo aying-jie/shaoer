@@ -1,25 +1,5 @@
-
-{"wallpaper":"https://789.st/zLP7cyj",
-
-
-"logo":"https://789.st/GlhcG1r",
-
-
+{
 "spider": "http://oss4liview.moji.com/thd_file/2025/12/25/bdf0989afa4b23c0a0763ace713f109b.jpg;md5;f23788d6c3a5e4b1d3bf1ff1ee42da32",
-
-
-"lives": [
-{ "name": "👖裤佬TV直播","type": 1,"url": "https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt"},
-
-{"name": "👖冰茶TV直播","type": 0,"playerType": 2,"url": "https://bc.188766.xyz/?ip=&mima=bingcha1130&huikan=1&json=true","ua": "bingcha/1.1(mianfeifenxiang)"},
-
-{"name": "👖日后TV直播","type": 0,"url":"http://rihou.cc:555/gggg.nzk","playerType": 2,"ua": "okhttp/3","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
-
-{ "name": "👖白雪TV直播","type": 1,"url": "http://bxtv.3a.ink/live.txt"},
-
-{"name": "👖JackTV直播{翻}","url": "https://php.946985.filegear-sg.me/jackTV.m3u","header": {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}}],
-
-
 
 "sites":[{"key":"豆瓣片单","name":"✈️TG频道@stymei","type":3,"api":"csp_Douban","jar":"https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar","searchable": 1,"quickSearch":0,"filterable": 1,"ext":"https://upld.zone.id/uploads/q9iq9e5iq/3.txt"
 },
