@@ -1,16 +1,13 @@
 
-{"wallpaper":
-"https://789.st/zLP7cyj",
+{"wallpaper":"https://789.st/zLP7cyj",
 
-//  ✍🏻这个标识是头像
-"logo":
-"https://789.st/GlhcG1r",
 
-//  ✍🏻这个标识是jar
-"spider": 
-"http://oss4liview.moji.com/thd_file/2025/12/25/bdf0989afa4b23c0a0763ace713f109b.jpg;md5;f23788d6c3a5e4b1d3bf1ff1ee42da32",
+"logo":"https://789.st/GlhcG1r",
 
-//  ✍🏻这个标识是直播
+
+"spider": "http://oss4liview.moji.com/thd_file/2025/12/25/bdf0989afa4b23c0a0763ace713f109b.jpg;md5;f23788d6c3a5e4b1d3bf1ff1ee42da32",
+
+
 "lives": [
 { "name": "👖裤佬TV直播","type": 1,"url": "https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt"},
 
@@ -23,7 +20,7 @@
 {"name": "👖JackTV直播{翻}","url": "https://php.946985.filegear-sg.me/jackTV.m3u","header": {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}}],
 
 
-//  ✍🏻这个标识是资源
+
 "sites":[{"key":"豆瓣片单","name":"✈️TG频道@stymei","type":3,"api":"csp_Douban","jar":"https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar","searchable": 1,"quickSearch":0,"filterable": 1,"ext":"https://upld.zone.id/uploads/q9iq9e5iq/3.txt"
 },
 {
